@@ -1,0 +1,7 @@
+build/
+build-*/
+__pycache__/
+coverage-summary.json
+
+# Generated verification logs and reports
+/validation/
